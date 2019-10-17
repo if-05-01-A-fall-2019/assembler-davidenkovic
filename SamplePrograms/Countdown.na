@@ -7,6 +7,7 @@ lit 24
 lit 25
 out 2
 
+
 # read input from user
 la 0 32
 la 0 36
